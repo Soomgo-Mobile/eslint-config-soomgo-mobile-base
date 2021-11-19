@@ -28,7 +28,6 @@ export = {
                     '.ts',
                     '.tsx',
                     '.json',
-                    '.native.js',
                     '.svg',
                     '.gif',
                     '.png',
